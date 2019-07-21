@@ -44,7 +44,7 @@ Now the `stdout` will print the curl.
 To customise the middleware, you can require `expressCurlMiddlewareFactory` instead (Note: to use this module as in v1, require `expressCurl`):
 
 ```
-const { expressCurlMiddlewareFactory } = require('@darshan/express-curl');
+const { expressCurlMiddlewareFactory } = require('get-curl');
 
 app.use(expressCurlMiddlewareFactory({
     // Logs the request as a curl command using logFn.
