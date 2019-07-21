@@ -14,7 +14,15 @@
     "express",
     "curl",
     "request",
-    "print-request"
+    "debug",
+    "log",
+    "track",
+    "print-request",
+    "incoming-request",
+    "outgoing-request",
+    "interceptor",
+    "node-js",
+    "node"
   ],
   "author": "Darshan Trambadiya",
   "license": "ISC",
