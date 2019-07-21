@@ -1,0 +1,25 @@
+{
+  "name": "get-curl",
+  "version": "1.0.0",
+  "description": "Print equivalent curl of express requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trambadiyadarshan/get-curl.git"
+  },
+  "keywords": [
+    "express",
+    "curl",
+    "request",
+    "print-request"
+  ],
+  "author": "Darshan Trambadiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trambadiyadarshan/get-curl/issues"
+  },
+  "homepage": "https://github.com/trambadiyadarshan/get-curl#readme"
+}
